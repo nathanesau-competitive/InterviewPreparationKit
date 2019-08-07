@@ -117,7 +117,7 @@ int main()
     ctciisbinarysearchtree::test();
     treehuffmandecoding::test();
     balancedforest::test();
-    insertanodeataspecificpositioninalinkedlist::test();
+    insertanodeataspecificpositioninalinkedlist::test(); // solved
     insertanodeintoasorteddoublylinkedlist::test();
     reverseadoublylinkedlist::test();
     findthemergepointoftwojoinedlinkedlists::test();
@@ -135,7 +135,7 @@ int main()
     jumpingontheclouds::test();
     repeatedstring::test();
     twodarray::test();
-    ctciarrayleftrotation::test();
+    ctciarrayleftrotation::test(); // solved
     newyearchaos::test();
     minimumswaps2::test();
     crush::test();
