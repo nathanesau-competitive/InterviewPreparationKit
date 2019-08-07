@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.14)
-project(ipk)
+project(main)
 
 add_subdirectory(Dictionaries/ctci-ransom-note)
 add_subdirectory(Dictionaries/two-strings)
@@ -71,4 +71,4 @@ add_subdirectory(Arrays/new-year-chaos)
 add_subdirectory(Arrays/minimum-swaps-2)
 add_subdirectory(Arrays/crush)
 
-add_executable(ipk main.cpp)
+add_executable(main main.cpp)

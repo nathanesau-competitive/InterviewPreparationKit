@@ -5,7 +5,7 @@ using namespace std;
 #include <limits>
 #include <cassert>
 
-namespace 2darray
+namespace twodarray
 {
     int foo()
     {

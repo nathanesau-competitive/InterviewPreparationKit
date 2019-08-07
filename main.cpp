@@ -134,7 +134,7 @@ int main()
     countingvalleys::test();
     jumpingontheclouds::test();
     repeatedstring::test();
-    2darray::test();
+    twodarray::test();
     ctciarrayleftrotation::test();
     newyearchaos::test();
     minimumswaps2::test();
